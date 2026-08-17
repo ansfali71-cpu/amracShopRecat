@@ -1,0 +1,6 @@
+{
+  "name": "Amerce E-Commerce Header Studio",
+  "description": "Professional interactive header design concepts, megamenus, live search, and customization suite for Amerce Botble e-commerce store with RTL/LTR support and code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
